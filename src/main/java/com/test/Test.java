@@ -33,7 +33,6 @@ class Test {
         return sb.toString();
     }
 
-
     public static void main(String[] args) {
         String s = "aabcccbbad";
         String ss = new Test().handle(s);
